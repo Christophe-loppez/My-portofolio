@@ -5,3 +5,4 @@ themeButton.addEventListener("click", function() {
     // 3. Change the page
     document.body.classList.toggle("dark-mode");
 });
+
